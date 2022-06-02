@@ -10,8 +10,8 @@ PROBLEM STATEMENT
  DATASET--->The dataset used for this model is given here https://drive.google.com/file/d/1hqlG0IqJh87-GiMNL_KAtbtZppMO07Hb/view?usp=sharing
  
  THINGS DONE IN THIS PROJECT:
- data cleaning
- data visualisation
- relations between data
- model building
+ data cleaning,
+ data visualisation,
+ relations between data,
+ model building,
  hyper tunning etc...
